@@ -1,3 +1,4 @@
+--Edisson Zambrano Sabando
 CREATE TABLE public.sistema (
 	id_sistema char(10) NOT NULL,
 	nom_sistema char(50),

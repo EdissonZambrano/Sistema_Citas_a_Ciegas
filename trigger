@@ -1,3 +1,4 @@
+--Edisson Zambrano Sabando
 --Trigger
 --Cuando una persona ha tenido dos reputaciones malas no puede volver a tener más citas   
   
